@@ -1,0 +1,20 @@
+0
+melc
+0
+furnica
+1
+rechin 1 3.4
+3
+colibri
+0
+fluture
+2
+crocodil
+3
+papagal
+4
+pisica
+1
+macrou 0 0.3
+1
+orca 1 8.5
